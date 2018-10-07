@@ -1,0 +1,25 @@
+html {
+  background-color: #c9b5ab;
+}
+
+nav {
+  font-family: "PT Sans", sans-serif;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+nav ol {
+  list-style-type: none;
+}
+
+nav a {
+  color: #8f2440;
+}
+
+nav a:hover {
+  color:#3f1622;
+}
+
+figure {
+  text-align: center;
+}
