@@ -3,6 +3,7 @@ html {
   font-family: "PT Serif", serif;
   line-height: 1.5;
   font-weight: normal;
+  color: #222;
 }
 
 img {
@@ -11,7 +12,6 @@ img {
 
 nav {
   font-family: "PT Sans", sans-serif;
-  font-size: 1.5rem;
   font-weight: bold;
 }
 
@@ -49,4 +49,25 @@ h2 + p {
 
 dt {
   font-weight: bold;
+}
+
+blockquote {
+  font-size: 1.5rem;
+  font-style: italic;
+}
+
+blockquote cite {
+  font-size: .8rem;
+}
+
+footer {
+  font-style: normal;
+}
+
+ol {
+  list-style-type: lower-greek;
+}
+
+h1 {
+  font-size: 1.5rem;
 }
